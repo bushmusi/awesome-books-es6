@@ -14,8 +14,9 @@ In this project, you will be using javascript arrays and object to store the lis
 - Linters
 
 ## Live Demo
+**If you disable CORS, you can run using below**
 
-[Live Demo Link](https://bushmusi.github.io/awsome-books/)
+[Live Demo Link](https://bushmusi.github.io/awesome-books-es6/)
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
@@ -28,8 +29,11 @@ To get a local copy up and running follow these simple example steps.
 - Create a github repository.
 
 ## Setup
-- git clone https://github.com/bushmusi/awsome-books.git
-- cd young-tech-conference/
+- `git clone https://github.com/bushmusi/awesome-books-es6.git`
+- `cd awesome-books-es6/`
+- `npm install`
+- `npx parcel index.html`
+
 -Follow the HTML-CSS linter confuguration to docs to setup linters [Link to Microverse linter docs](https://github.com/bushmusi/linters-config/tree/master/html-css-js)
 
 
@@ -54,8 +58,6 @@ For tracking linters errors locally, you need to follow these steps:
 
 - GitHub: 
     - [Bushra](www.github.com/bushmusi)
-    - [Victor](www.github.com/vickymarz)
-    - [Beyk](www.github.com/beyk)
 
 
 ## 🤝 Contributing
